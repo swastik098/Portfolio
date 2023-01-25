@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/swastik098/Portfolio.git/static/css/main.09cde8d9.css",
+    "main.js": "/swastik098/Portfolio.git/static/js/main.0c9caca5.js",
+    "static/media/SwastikGiri.pdf": "/swastik098/Portfolio.git/static/media/SwastikGiri.6a6c68dcd7c2ceea74fb.pdf",
+    "static/media/cartoon.png": "/swastik098/Portfolio.git/static/media/cartoon.ac12bfb62882ab481daf.png",
+    "index.html": "/swastik098/Portfolio.git/index.html",
+    "main.09cde8d9.css.map": "/swastik098/Portfolio.git/static/css/main.09cde8d9.css.map",
+    "main.0c9caca5.js.map": "/swastik098/Portfolio.git/static/js/main.0c9caca5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09cde8d9.css",
+    "static/js/main.0c9caca5.js"
+  ]
+}
